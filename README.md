@@ -107,7 +107,7 @@ Options:
   --host string      LM Studio host (default: localhost)
   --port int         LM Studio port (default: 1234)
   --version          Show version information
-  -h, --help         Show help
+  -h, -help          Show help
 ```
 
 ### Examples
